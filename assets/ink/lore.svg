@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><title>Two moons over a ward</title>
+<circle cx="50" cy="40" r="20"/><circle cx="85" cy="30" r="8" fill="#c4373f" stroke="#c4373f"/>
+<path d="M22 76h76" /><path d="M32 76v26M88 76v26"/><path d="M26 70c22-5 46-5 68 0"/>
+<path d="M60 76v12" stroke-width="2"/><path d="M54 88h12l-2 12h-8z" stroke-width="2"/>
+<path d="M44 34c3-2 7-2 9 1" stroke-width="2" opacity=".6"/></svg>

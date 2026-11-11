@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><title>A lantern in the rain</title>
+<path d="M60 14v14"/><path d="M48 30h24"/>
+<path d="M46 34c-4 14-4 30 0 44h28c4-14 4-30 0-44z"/>
+<path d="M46 50h28M46 64h28" stroke-width="2" opacity=".6"/><path d="M50 82h20"/>
+<path d="M56 86v12M64 86v12" stroke-width="2"/>
+<path d="M60 44c-3 5-3 9 0 12 3-3 3-7 0-12z" fill="#c4373f" stroke="#c4373f" stroke-width="1.5"/>
+<path d="M20 30l-4 10M28 58l-4 10M96 24l-4 10M100 60l-4 10M88 92l-4 10M26 92l-4 10" stroke-width="2" opacity=".55"/></svg>

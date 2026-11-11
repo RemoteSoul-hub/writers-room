@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><title>Two speech marks and a ticket</title>
+<path d="M18 30h50a8 8 0 0 1 8 8v16a8 8 0 0 1-8 8H38l-12 10v-10h-8a8 8 0 0 1-8-8V38a8 8 0 0 1 8-8z"/>
+<path d="M52 66h42a8 8 0 0 1 8 8v12a8 8 0 0 1-8 8h-6v9l-11-9H52a8 8 0 0 1-8-8V74a8 8 0 0 1 8-8z" stroke="#3b6fd6"/>
+<path d="M26 42h30M26 50h20" stroke-width="2" opacity=".7"/><path d="M60 78h28M60 85h16" stroke-width="2" opacity=".7"/>
+<circle cx="96" cy="22" r="4" fill="#c4373f" stroke="none"/></svg>

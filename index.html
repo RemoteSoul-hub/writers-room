@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Writer's Room · Under Two Moons</title>
+  <meta name="description" content="A quiet place to imagine Kurohama and the people in it, for Under Two Moons.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="wordmark" href="#/">
+      <span class="wordmark-moons" aria-hidden="true"><i></i><i></i></span>
+      <span>The Writer's Room</span>
+    </a>
+    <nav class="topnav" aria-label="Main">
+      <a href="#/areas" data-nav="areas">Areas</a>
+      <a href="#/review" data-nav="review">Review &amp; send <span class="count" id="nav-count"></span></a>
+    </nav>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <footer class="foot">
+    <p>Everything you write here is a suggestion. None of it becomes canon unless the team decides it should, and nothing on this page hints at the story to come.</p>
+    <p class="save-state" id="save-state" aria-live="polite"></p>
+  </footer>
+
+  <div class="rain" aria-hidden="true"></div>
+
+  <noscript><p class="noscript">The Writer's Room needs JavaScript to save your drafts.</p></noscript>
+
+  <script src="config/characters.js"></script>
+  <script src="config/topics.js"></script>
+  <script src="js/chunker.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

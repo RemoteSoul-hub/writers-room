@@ -1,0 +1,5 @@
+# OS and editor leftovers
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
